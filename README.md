@@ -1,2 +1,14 @@
-# -Animated-Login-Form-
-You will be tasked with designing and developing an animated login form that is both functional and aesthetically pleasing. The form should include fields for username and password, along with buttons for login, forget password, and signup. The focus will be on utilizing CSS animations and transitions to create a dynamic user experience.
+# Login Form
+https://taratakos.github.io/form-login/
+## [Watch it on youtube](https://youtu.be/Rkt3rWgi_zk)
+### Login form
+
+- Login Form Using HTML & CSS
+- Contains a beautiful background image.
+- With glass effect in the login form.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
